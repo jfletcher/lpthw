@@ -1,0 +1,32 @@
+Functions in Python
+
+functions name small units of code in same way variables name strings or numbers
+
+They take arguments
+
+Allow us to build 'mini-scripts' that do certain things
+
+
+start with the word def (for define)
+named appropriately: numbers, letters, underscores OK - must start with letter
+
+then pass unique argument(s) inside curly brackets - multiple args separated with commas
+
+end first line with a colon
+
+then indent 4 spaces underneath on next lines
+
+end function by dedenting ie: pulling in 4 spaces
+
+run (or 'call', or 'use') a function by typing its name followed by parentheses with optional argument(s).
+
+variables in functions are not always connected to variables elsewhere in the script - global vs. local
+
+passing arguments to functions
+
+done in parentheses
+
+can be variables from outside the function
+can be math
+can be direct numbers/values
+can be a mix of all
